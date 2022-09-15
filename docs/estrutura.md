@@ -12,7 +12,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="lib" label="ib" default>
+  <TabItem value="lib" label="lib" default>
     Contém o código Dart do aplicativo. É possível criar pastas e subpastas aqui dentro, porém o arquivo **main.dart** deve estar na raiz.&#x20;
   </TabItem>
   <TabItem value="main" label="main.dart">O ponto de partida de qualquer aplicativo em Flutter. Dentro dele, deve conter a chamada ao método **main()**.
