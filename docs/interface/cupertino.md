@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Cupertino
 
-Na biblioteca [Cupertino](https://api.flutter.dev/flutter/cupertino/cupertino-library.html) temos o duas opções de widget para estruturar a tela do aplicativo;
+Na biblioteca [Cupertino](https://api.flutter.dev/flutter/cupertino/cupertino-library.html) temos duas opções de widget para estruturar a tela do aplicativo;
 
 [CupertinoPageScaffold](https://api.flutter.dev/flutter/cupertino/CupertinoPageScaffold-class.html): Onde temos uma barra de navegação no topo \(onde utilizamos uma [CupertinoNavigationBar](https://api.flutter.dev/flutter/cupertino/CupertinoNavigationBar-class.html) e o restante da tela é com o conteúdo.
 
