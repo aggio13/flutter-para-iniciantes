@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Composição
 
-Entender a diferença entre composição sobre herança, no contexto de um aplicativo em Flutter, facilitará o entendimento de como os widgets se relacionam.
+Entender a diferença entre composição e herança, no contexto de um aplicativo em Flutter, facilitará o entendimento de como os widgets se relacionam.
 
 Composição: Widget X possui o widget Y.
 
